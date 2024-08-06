@@ -1,0 +1,13 @@
+tipo:ACPM:9500:100.0
+tipo:Extra:15000:95.0
+tipo:Corriente:13500:250.0
+tipo:Diesel:10500:150.0
+surtidor:Santiago:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Santiago:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Diego:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Valentina:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Camila:0
+empleado:Santiago:0
+empleado:Diego:0
+empleado:Juan:0
+empleado:Valentina:0
